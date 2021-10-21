@@ -1,0 +1,7 @@
+D:\безпека\lab2cyber\lab2cyber\bin\Debug\lab2cyber.exe.config
+D:\безпека\lab2cyber\lab2cyber\bin\Debug\lab2cyber.exe
+D:\безпека\lab2cyber\lab2cyber\bin\Debug\lab2cyber.pdb
+D:\безпека\lab2cyber\lab2cyber\obj\Debug\lab2cyber.csprojAssemblyReference.cache
+D:\безпека\lab2cyber\lab2cyber\obj\Debug\lab2cyber.csproj.CoreCompileInputs.cache
+D:\безпека\lab2cyber\lab2cyber\obj\Debug\lab2cyber.exe
+D:\безпека\lab2cyber\lab2cyber\obj\Debug\lab2cyber.pdb
