@@ -1,0 +1,6 @@
+D:\безпека\lab3.4\lab3.4\bin\Debug\lab3.4.exe.config
+D:\безпека\lab3.4\lab3.4\bin\Debug\lab3.4.exe
+D:\безпека\lab3.4\lab3.4\bin\Debug\lab3.4.pdb
+D:\безпека\lab3.4\lab3.4\obj\Debug\lab3.4.csproj.CoreCompileInputs.cache
+D:\безпека\lab3.4\lab3.4\obj\Debug\lab3.4.exe
+D:\безпека\lab3.4\lab3.4\obj\Debug\lab3.4.pdb
