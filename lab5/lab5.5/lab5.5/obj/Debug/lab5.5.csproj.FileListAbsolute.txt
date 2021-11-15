@@ -1,0 +1,6 @@
+D:\безпека\lab5.5\lab5.5\obj\Debug\lab5.5.csproj.CoreCompileInputs.cache
+D:\безпека\lab5.5\lab5.5\bin\Debug\lab5.5.exe.config
+D:\безпека\lab5.5\lab5.5\bin\Debug\lab5.5.exe
+D:\безпека\lab5.5\lab5.5\bin\Debug\lab5.5.pdb
+D:\безпека\lab5.5\lab5.5\obj\Debug\lab5.5.exe
+D:\безпека\lab5.5\lab5.5\obj\Debug\lab5.5.pdb

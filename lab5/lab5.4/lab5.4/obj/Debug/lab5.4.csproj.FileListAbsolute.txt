@@ -1,0 +1,7 @@
+D:\безпека\lab5.4\lab5.4\obj\Debug\lab5.4.csprojAssemblyReference.cache
+D:\безпека\lab5.4\lab5.4\obj\Debug\lab5.4.csproj.CoreCompileInputs.cache
+D:\безпека\lab5.4\lab5.4\bin\Debug\lab5.4.exe.config
+D:\безпека\lab5.4\lab5.4\bin\Debug\lab5.4.exe
+D:\безпека\lab5.4\lab5.4\bin\Debug\lab5.4.pdb
+D:\безпека\lab5.4\lab5.4\obj\Debug\lab5.4.exe
+D:\безпека\lab5.4\lab5.4\obj\Debug\lab5.4.pdb
